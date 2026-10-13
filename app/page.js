@@ -205,7 +205,7 @@ export default function Home() {
             <div className="stat-divider" />
             <div className="stat">
               <span className="stat-icon">✧</span>
-              <strong>HARD</strong>
+              <strong>MEDIUM</strong>
               <span>DIFFICULTY</span>
             </div>
           </div>
@@ -220,7 +220,7 @@ export default function Home() {
           </p>
 
           <div className="credits">
-            <span>DESIGNED FOR</span>
+            <span>DESIGNED BY</span>
             <strong>BCR409</strong>
             <span className="credit-star">✦</span>
             <span>MENTAL HEALTH AWARENESS</span>
